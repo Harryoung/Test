@@ -12,13 +12,13 @@ body:
   attributes:
     label: 问题确认 Search before asking
     description: >
-      (必选项) 在向PaddleDetection报bug之前，请先查询[历史issue](https://github.com/PaddlePaddle/PaddleDetection/issues)是否报过同样的bug。
+      (必选项) 在向PaddleDetection报bug之前，请先查询[历史issue(包括open与closed)](https://github.com/PaddlePaddle/PaddleDetection/issues)是否报过同样的bug。
 
-      (Required) Before submitting a bug, please make sure the issue hasn't been already addressed by searching through [the existing and past issues](https://github.com/PaddlePaddle/PaddleDetection/issues).
+      (Required) Before submitting a bug, please make sure the issue hasn't been already addressed by searching through the [**existing and closed** issues](https://github.com/PaddlePaddle/PaddleDetection/issues).
 
     options:
       - label: >
-          我已经查询[历史issue](https://github.com/PaddlePaddle/PaddleDetection/issues)，没有发现相似的bug。I have searched the [issues](https://github.com/PaddlePaddle/PaddleDetection/issues) and found no similar bug report.
+          我已经查询[历史issue(包括open与closed)](https://github.com/PaddlePaddle/PaddleDetection/issues)，没有发现相似的bug。I have searched the [**existing and closed** issues](https://github.com/PaddlePaddle/PaddleDetection/issues) and found no similar bug report.
         required: true
 
 - type: dropdown
