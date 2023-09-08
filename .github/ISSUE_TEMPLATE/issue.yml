@@ -1,9 +1,6 @@
 ---
-name: Issue template
-about: Raise any issue about this repo.
-title: ''
-labels: ''
-assignees: ''
+name: "Issue template"
+about: "Raise any issue about this repo."
 ---
 
 我们提供了Issue Bot来帮助你解答问题，你是否想要它来解答(请填写yes/no)?/We provide Issue Bot to solve issues, do you want it? (Please write yes/no):
