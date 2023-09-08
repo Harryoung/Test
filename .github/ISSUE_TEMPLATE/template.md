@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 ---
-请在这里描述您的问题/Please describe your issue here:
+请在这里描述你的问题/Please describe your issue here:
 
 
 我们提供了Issue Bot来帮助你解答问题，你是否想要它来解答(请填写yes/no)?/We provide Issue Bot to solve issues, do you want it? (Please write yes/no):
